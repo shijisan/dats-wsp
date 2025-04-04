@@ -13,7 +13,7 @@ const robotoFlex = Roboto_Flex({
 
 export const metadata = {
   title: "DATs-WSP",
-  description: "Data Analysis, Trends With Smart Prediction",
+  description: "Data Analysis, Trends Search With Smart Prediction",
 };
 
 export default function RootLayout({ children }) {

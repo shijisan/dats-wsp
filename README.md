@@ -1,5 +1,5 @@
-# 📊 DATs-WSP
-**Data Analysis, Trends With Smart Prediction**
+# 📊 DATS-WSP
+**Data Analysis, Trends Search With Smart Prediction**
 
 DATs-WSP is a web app that visualizes keyword trends and projects their future using simple AI/ML. It includes a live search, Chart.js data graphs, and a basic keyword trend prediction model.
 
