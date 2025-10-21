@@ -19,7 +19,7 @@ DATs-WSP is a web app that visualizes keyword trends and projects their future u
 ### Frontend / Web App
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dats-wsp.git
+git clone https://github.com/shijisan/dats-wsp.git
 cd dats-wsp
 pnpm install
 pnpm dev
